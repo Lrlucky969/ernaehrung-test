@@ -1,0 +1,16 @@
+Ernährung Know-how, Testversion mit Passwort (PWA, Stand v9)
+
+Der Inhalt in index.html ist verschlüsselt. Ohne Passwort ist er nicht lesbar,
+auch nicht im öffentlichen GitHub-Repository.
+
+Hochladen
+  Alle Dateien und den Ordner "icons" unverändert in ein NEUES Repository laden
+  (index.html, manifest.webmanifest, sw.js, icons).
+
+Passwort
+  Steht nicht in diesem Ordner. Getrennt vom Link an die Tester schicken.
+  Groß- und Kleinschreibung ist egal. "Auf diesem Gerät merken" spart die
+  erneute Eingabe.
+
+Passwort ändern oder neue Version
+  Dafür wird der Ordner neu gebaut. Danach alle Dateien überschreiben.
